@@ -23,7 +23,6 @@
   <h4 align="left">-Certified Tester Foundation Level</h4>
   <h4 align="left">-Certified Tester Agile Tester</h4>
   <h4 align="left">-Test Maturity Model integration</h4>
-  <h4 align="left">-Certified Tester Foundation Level</h4>
  <h5 align="left">Autor dos livros citados: International Software Testing Qualifications Board</h4>
    
   ##
