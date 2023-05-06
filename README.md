@@ -13,7 +13,7 @@
 <br>
 
   ##  
-  <h3 align="left">Leituras e conhecimentos sobre teste de software:</h3>
+  <h3 align="left">Minhas leituras e conhecimentos sobre teste de software:</h3>
   <h4 align="left">-The Art of Software Testing</h4>
   <h4 align="left">-The Psychology of Computer Programming</h4>
   <h4 align="left">-Software Reliability: Principles and Practices</h4>
