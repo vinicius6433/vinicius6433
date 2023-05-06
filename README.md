@@ -20,12 +20,12 @@
   <h4 align="left">-The Art of Debugging with GDB and DDD</h4>
       
   <h5 align="left">Autor dos livros citados: Glenford J. Myers</h4>
-      
+  <br/>
   <h4 align="left">-Certified Tester Foundation Level</h4>
   <h4 align="left">-Certified Tester Agile Tester</h4>
   <h4 align="left">-Test Maturity Model integration</h4>
   <h4 align="left">-Certified Tester Foundation Level</h4>
-  
+  <br/>
  <h5 align="left">Autor dos livros citados: International Software Testing Qualifications Board</h4>
    
   ##
