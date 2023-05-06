@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1000&pause=2000&color=f2900d&center=true&vCenter=true&width=750&height=150&lines=Bem+vindo+;Meu+nome+%C3%A9+Vin%C3%ADcius+Moreira;Graduado+e+p%C3%B3s+graduado+em+qualidade+de+software.;Atuo+na+Stefanini+Group;Como+Analista+de+Qualidade+e+Automa%C3%A7%C3%A3o.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1000&pause=2000&color=f2900d&center=true&vCenter=true&width=750&height=150&lines=Bem+vindo+!!!!;Meu+nome+%C3%A9+Vin%C3%ADcius+Moreira;Graduado+e+p%C3%B3s+graduado+em+qualidade+de+software.;Atuo+na+Stefanini+Group;Como+Analista+de+Qualidade+e+Automa%C3%A7%C3%A3o.)](https://git.io/typing-svg)
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vinicius6433&show_icons=true&count_private=true&theme=codeSTACKr" alt="Vinícius Moreira github stats" /> 
   <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius6433&layout=compact&hide_border=true&theme=codeSTACKr" />
