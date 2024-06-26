@@ -2,29 +2,130 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f2900d&height=100&section=header"/>
 
-<div align="center">
+  
+# Vinicius Moreira - Líder e Engenheiro de Qualidade de Software
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1000&pause=2000&color=f2900d&center=true&vCenter=true&width=750&height=150&lines=Bem+vindo+!!!!;Meu+nome+%C3%A9+Vin%C3%ADcius+Moreira;Graduado+e+p%C3%B3s+graduado+em+qualidade+de+software.;Atuo+na+CSPtech;Como+Analista+e+Lider+de+Qualidade+Senior+3.)](https://git.io/typing-svg)
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vinicius6433&show_icons=true&count_private=true&theme=codeSTACKr" alt="Vinícius Moreira github stats" /> 
-  <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius6433&layout=compact&hide_border=true&theme=codeSTACKr" />
+Profissional experiente na liderança de times de alta e baixa performance, especializado em automação funcional e não funcional, testes de segurança, IA, ML, big data e micro serviços.
+
+<small> <i> **obs: caso não queira ler as informações uma a uma, no final desse texto existe as informações em formato visual, ou seja somente os ícones :D </small> </i>
+
+## Formação Acadêmica
+- Graduado em Análise e Desenvolvimento de Sistemas
+- 4 Pós-graduações em Engenharia de Software, QA, ML, IA e Cyber Security (Red e Blue Team)
+- Certificação CTFL
+
+## Competências Técnicas
+
+### Organização de Testes Manuais
+- Elaboração de cenários, casos de teste e planos de teste
+- Planos e estratégias de teste
+- Criação de massa de testes
+- Massa de dados
+- Mindmaps
+- Heurísticas
+- Matriz de testes em mindmaps
+- Matriz de priorização
+- Controle de serviço
+
+### Gestão de Projeto e Tarefas
+- Jira
+- Trello
+- Asana
+- Microsoft Azure DevOps
+
+### Gestão de Testes
+- QAse
+- Zephyr/Xray
+- TestRail
+- qTest
+- PractiTest
+- Mantis
+
+### Testes Funcionais
+- Regressão, Fumaça, Sanidade
+- Aceitação, UAT
+- Unidade, Integração, Sistema
+- Usabilidade, Acessibilidade
+
+### Testes Automatizados WEB
+- Cypress (JS, TS)
+- Selenium (Python, Java, C#, Javascript, PHP)
+- Robot (Python, Java, JS)
+- Capybara (Ruby)
+
+### Testes Automatizados/Manuais Mobile
+- Robot (Python)
+- Appium (Java)
+- AWS Device Farm
+- Maestro Mobile
+
+### Testes de API
+- Postman, Insomnia
+- Rest-Assured
+- SoapUI
+- Cy.request/intercept
+
+### Versionamento de Código
+- Git
+- Github
+- Gitlab
+
+### CI/CD
+- Docker
+- Jenkins
+- GitActions
+- AzureDevOps Pipeline
+
+### Bancos de Dados
+- OracleSQL
+- PostgreeSQL
+- MySQL
+- MariaDB
+- MongoDB
+- CassandraDB
+
+### Testes Não Funcionais
+- Carga, Estresse, Desempenho: K6, jMeter, BlazeMeter, Gatling
+- Segurança (xss, cors, jdbi, jndc, ELi, ESI, hop-by-hop, etc.)
+  - Veja mais no meu [artigo sobre testes de segurança no LinkedIn](https://linkedin.com/in/seuperfil)
+
+### Técnicas de Teste
+- Particionamento de Equivalência
+- Shift-Left
+- Análise Estática
+- Análise de Valor Limite
+- Tabela de Decisão
+- Teste de Todos os Pares
+- Tabela de Estado de Decisão
+
+### Testes nos Modelos Ágeis
+- SCRUM
+- KANBAN
+
+### Melhoria de Qualidade
+- Six Sigma
+- PDCA
+
+## Experiência Profissional
+
+### Hackathon de Qualidade - Stefanini (2022)
+- Professor/Avaliador
+
+### UniCSP
+- Professor
+
+## Conhecimentos Adicionais
+
+**Base Teórica:** Especializado em testes e qualidade de software com base em livros da biblioteca de O'Reily por autores como Irvine D. Build, Jullien Pivotto, Unmesh Gundecha, Alan Page, Boni Garcia, Myers e Pressman.
+
+## Personalidade
+- Profissional hands-on, com perfil de liderança e ensino.
 </div>
-<br>
-<br>
-
-  ##  
-  <h3 align="left">Minhas leituras e conhecimentos sobre teste de software:</h3>
-  <h4 align="left">-The Art of Software Testing</h4>
-  <h4 align="left">-The Psychology of Computer Programming</h4>
-  <h4 align="left">-Software Reliability: Principles and Practices</h4>
-  <h4 align="left">-The Art of Debugging with GDB and DDD</h4>
-  <h4 align="left">-Certified Tester Foundation Level</h4>
-  <h4 align="left">-Certified Tester Agile Tester</h4>
-  <h4 align="left">-Test Maturity Model integration</h4>
-   
-  ##
 
 <div  align="left"> 
+  
+## Informações Visuais:
+  
   <div style="display: inline_block">
   <h3 align="left">Linguagens de programação:</h3>
     <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"></a>,
