@@ -1,6 +1,7 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f2900d&height=100&section=header"/>
+<img width="800" height="3424" alt="timeline-itiner_1756323314" src="https://github.com/user-attachments/assets/6257b71c-4be8-47e1-8a82-e2216f1c237a" />
 
   
 # Vinicius Moreira - Líder e Engenheiro de Qualidade de Software
